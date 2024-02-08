@@ -1,8 +1,5 @@
 # Delta wgrywanie i zgrywanie programów na PLC oraz HMI
 
-[!["Buy Me A Coffee"](https://github.com/SzczepanLeon/esphome-components/blob/main/docs/buy_me_coffe.png)](https://www.buymeacoffee.com/szczepan)
-
-
 ## 1. Wykorzystanie
 Zebrane w repozytorium dane przygotowanie zostały w celu usystematyzowania wiedzy na temat połączenia się do produktów producenta [DELTA](https://www.deltaww.com/en-US/index) 
 
@@ -61,8 +58,17 @@ Use latest [ESPHome](https://esphome.io/)
 ## 4. Przewody
 - Programownie PLC
   - DVP 
-    - RS232 (okrągłe czarne) UC-PRG020-12A 
-    [!["UC-PRG020-12A"](https://github.com/mszankowski/DELTA_PLC-HMI.conncetion/Przewody/UC-PRG020-12A.jpg)]
+    - **RS232** (okrągłe czarne) 
+    RS232 ***UC-PRG020-12A*** (https://github.com/mszankowski/DELTA_PLC-HMI.conncetion/blob/main/Przewody/UC-PRG020-12A.jpg)
+    > _SS2, SA2, SX2_ 
+    - mini USB
+    > SX2, SE
+    - RS485 **IFD6500** (https://github.com/mszankowski/DELTA_PLC-HMI.conncetion/blob/main/Przewody/IFD6500.jpg)
+    > SS2, SA2, SX2, SE, SV2
+
+
+
+
 ------------------------
 ## 5. Author
 
