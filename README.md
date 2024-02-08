@@ -58,8 +58,7 @@ Use latest [ESPHome](https://esphome.io/)
 ## 4. Przewody
 - Programownie PLC
   - DVP 
-    - RS232 (okrągłe czarne) UC-PRG020-12A 
-    [!["UC-PRG020-12A"](https://github.com/mszankowski/DELTA_PLC-HMI.conncetion/blob/main/Przewody/UC-PRG020-12A.jpg)]
+    - RS232 (okrągłe czarne) UC-PRG020-12A (https://github.com/mszankowski/DELTA_PLC-HMI.conncetion/blob/main/Przewody/UC-PRG020-12A.jpg)
 
 ------------------------
 ## 5. Author
